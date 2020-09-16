@@ -1,0 +1,31 @@
+这一次学习了水平线，还有字体的样式
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>电影介绍</title>
+</head>
+<body>
+    <h1 align="center">西游降魔篇</h1>
+    <hr color="blue" align=left size="3" width="740">
+    <img src="pic.jpg" align="right" height="200" width="200">
+    <p>2013年2月10日</p><br>
+    导演：周星驰<br>
+    主演：黄渤等等<br>
+    片长：110min <br>
+    类型：冒险&nbsp奇幻&nbsp喜剧 <br>
+    定价：5&yen &nbsp 4&yen
+    <h1 align="center">101次求婚</h1>
+    <hr color="black" align=left size="3" width="740">
+    <img src="101.jpg" align="right" height="200" width="200">
+   
+    导演：陈正道<br>
+    主演：黄渤等等<br>
+    片长：104min <br>
+    类型：爱情&nbsp剧情 <br>
+    定价：5&yen &nbsp 4&yen<br><br>
+
+     <p><ins>2013年2月10日</ins></p>
+</body>
+</html>
+
